@@ -1,3 +1,4 @@
+//FINDING PEAK ELEMENT IN AN ARRAY
 #include<stdio.h>
 void main()
 {
